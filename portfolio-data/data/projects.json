@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "VISRODECK TECHNOLOGY",
+    "role": "Startup Founder & Director",
+    "desc": "A technology startup focused on building tools that democratise access to digital infrastructure and communication. Building the next generation of digital products.",
+    "url": "https://visrodeck.com",
+    "github": "",
+    "cover": "https://raw.githubusercontent.com/emtypyie/portfolio-data/main/images/visrodeck-cover.png"
+  },
+  {
+    "id": "2",
+    "name": "RELAY",
+    "role": "End-to-End Encrypted Messaging",
+    "desc": "A privacy-first messaging platform built on end-to-end encryption. Relay ensures your conversations stay private, always. No metadata collection, no backdoors.",
+    "url": "https://relay.visrodeck.com",
+    "github": "https://github.com/emtypyie/relay",
+    "cover": "https://raw.githubusercontent.com/emtypyie/portfolio-data/main/images/relay-cover.png"
+  }
+]
