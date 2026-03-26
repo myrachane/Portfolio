@@ -6,7 +6,7 @@
     "desc": "A technology startup focused on building tools that democratise access to digital infrastructure and communication. Building the next generation of digital products.",
     "url": "https://visrodeck.com",
     "github": "",
-    "cover": "https://raw.githubusercontent.com/emtypyie/portfolio-data/main/images/visrodeck-cover.png"
+    "cover": "https://raw.githubusercontent.com/myrachane/portfolio-data/main/images/visrodeckcover.png"
   },
   {
     "id": "2",
@@ -15,6 +15,15 @@
     "desc": "A privacy-first messaging platform built on end-to-end encryption. Relay ensures your conversations stay private, always. No metadata collection, no backdoors.",
     "url": "https://relay.visrodeck.com",
     "github": "https://github.com/emtypyie/relay",
-    "cover": "https://raw.githubusercontent.com/emtypyie/portfolio-data/main/images/relay-cover.png"
+    "cover": "https://raw.githubusercontent.com/myrachane/portfolio-data/main/images/relaycover.png"
+  },
+  {
+    "id": "3",
+    "name": "OpenDih",
+    "role": "OpenDih is an OpenSource research collective building collective-persona intelligence models.",
+    "desc": "We fine-tune base substrates to not only write code, but to solve problems with the distinct logic, grit, and intuition of the engineers who trained it. ",
+    "url": "https://opendih.github.io/website/",
+    "github": "https://github.com/OpenDih",
+    "cover": "https://raw.githubusercontent.com/myrachane/portfolio-data/main/images/opendihcover.png"
   }
 ]
