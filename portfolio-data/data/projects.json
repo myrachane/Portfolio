@@ -25,5 +25,14 @@
     "url": "https://opendih.github.io/website/",
     "github": "https://github.com/OpenDih",
     "cover": "https://github.com/OpenDih/.github/blob/main/src/banner.webp"
+  },
+  {
+    "id": "3",
+    "name": "BloatWare",
+    "role": "BloatWare is a Discord Bot made with a clear vision in mind",
+    "desc": "The philosophers have only interpreted the world. The point, however, is to change it.",
+    "url": "https://bloatware.emtypyie.in",
+    "github": "https://github.com/myrachane/BloatWare",
+    "cover": "https://github.com/OpenDih/.github/blob/main/src/banner.webp"
   }
 ]
