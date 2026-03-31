@@ -36,5 +36,14 @@
     "url": "https://bloatware.emtypyie.in",
     "github": "https://github.com/myrachane/BloatWare",
     "cover": "https://github.com/OpenDih/.github/blob/main/src/banner.webp"
+  },
+  {
+    "id": "5",
+    "name": "PyieLink Framework",
+    "role": "PyieLink Framework is an networking framework which handles stuff",
+    "desc": "Includes Packet snifer, port scanning, terminal and more.",
+    "url": "https://pyielink.emtypyie.in",
+    "github": "https://github.com/myrachane/PyieLink-Engine",
+    "cover": "https://github.com/OpenDih/.github/blob/main/src/banner.webp"
   }
 ]
